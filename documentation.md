@@ -51,16 +51,16 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
 - **[@pamwise](https://github.com/pamwise)** (pamwise)
   - **Assigned Tasks:**
     - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
+    - **Analytics Integration:** Setting up tracking for landing page engagement.
 
 - **[@Robotinic17](https://github.com/Robotinic17)** (Robotinic17)
   - **Assigned Tasks:**
     - **Development of `/about` page:** Crafting the global collective story, mission, and "Why ByteWave" narrative.
     - **SEO & Performance Optimization:** Ensuring all pages follow best practices for search engines and loading speeds.
-    - **Analytics Integration:** Setting up tracking for landing page engagement.
 
 ## 🚀 Development Workflow
 
-1. **Branching:** All developers must work on their respective branches (or sub-branches of `samkiel`).
+1. **Branching:** All developers must work on their respective branches.
 2. **Pull Requests:** Once a page or component is complete, create a Pull Request to the `main` branch.
 3. **Review:** [@samkiell](https://github.com/samkiell) will review the PR for performance, responsiveness, and design consistency.
 4. **Deploy:** Successful merges to `main` will automatically trigger a Vercel deployment.
