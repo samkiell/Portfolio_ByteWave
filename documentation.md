@@ -51,10 +51,13 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
     - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
     - **Analytics Integration:** Setting up tracking for landing page engagement.
 
-### 💻 Core Frontend Developers
-- **[@ayodelebello310-svg](https://github.com/ayodelebello310-svg)** & **[@Robotinic17](https://github.com/Robotinic17)**
-  - **Collaborative Tasks:**
+### 💻  Core Frontend Developers
+- **[@ayodelebello310-svg](https://github.com/ayodelebello310-svg)**
+  - **Assigned Tasks:**
     - **Development of `/projects` page:** Building the dynamic success stories grid and case studies.
+
+- **[@Robotinic17](https://github.com/Robotinic17)**
+  - **Assigned Tasks:**
     - **Development of `/about` page:** Crafting the global collective story and mission.
     - **SEO & Performance Optimization:** Ensuring all pages follow best practices.
 
