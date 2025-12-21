@@ -51,10 +51,10 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
     - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
     - **Analytics Integration:** Setting up tracking for landing page engagement.
 
-### 💻  Core Frontend Developers
+### 💻 Core Frontend Developers
 - **[@ayodelebello310-svg](https://github.com/ayodelebello310-svg)**
   - **Assigned Tasks:**
-    - **Development of `/projects` page:** Building the dynamic success stories grid and case studies.
+    - **Development of `/projects` page:** Creating a comprehensive showcase of all the projects ByteWave has worked on, featuring dynamic grids, results, and detailed case studies.
 
 - **[@Robotinic17](https://github.com/Robotinic17)**
   - **Assigned Tasks:**
