@@ -34,30 +34,38 @@ src/
 
 ## 👥 Team & Responsibilities
 
-Roles and tasks assigned by **@samkiell**.
+Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
 
 ### 🛠 Technical Lead & Architect
-- **@samkiell** (Samuel Ezekiel)
+- **[@samkiell](https://github.com/samkiell)** (Samuel Ezekiel)
   - **Status:** Completed Landing Page & Core Architecture.
   - **Responsibilities:** Technical oversight, project scaffolding, deployment management, and code review.
 
 ### 🎨 Senior Frontend Engineer (UI/UX)
-- **@Ayomide-Philip** (Ayomide Philip)
+- **[@Ayomide-Philip](https://github.com/Ayomide-Philip)** (Ayomide Philip)
   - **Assigned Tasks:**
     - **Development of `/services` page:** Detailed breakdown of Web and Mobile offerings, tech stacks, and engineering processes.
     - **Development of `/projects` page:** Building the dynamic success stories grid, including case study modals and filtering.
 
-### 💻 Core Frontend Developer
-- **@pamwise** (pamwise)
+### 💻 Core Frontend Developers
+- **[@pamwise](https://github.com/pamwise)** (pamwise)
+  - **Assigned Tasks:**
+    - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
+
+- **[@Dave](https://github.com/Dave)** (Dave)
   - **Assigned Tasks:**
     - **Development of `/about` page:** Crafting the global collective story, mission, and "Why ByteWave" narrative.
-    - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
+
+- **[@Robotinic17](https://github.com/Robotinic17)** (Robotinic17)
+  - **Assigned Tasks:**
+    - **SEO & Performance Optimization:** Ensuring all pages follow best practices for search engines and loading speeds.
+    - **Analytics Integration:** Setting up tracking for landing page engagement.
 
 ## 🚀 Development Workflow
 
 1. **Branching:** All developers must work on their respective branches (or sub-branches of `samkiel`).
 2. **Pull Requests:** Once a page or component is complete, create a Pull Request to the `main` branch.
-3. **Review:** @samkiell will review the PR for performance, responsiveness, and design consistency.
+3. **Review:** [@samkiell](https://github.com/samkiell) will review the PR for performance, responsiveness, and design consistency.
 4. **Deploy:** Successful merges to `main` will automatically trigger a Vercel deployment.
 
 ---
