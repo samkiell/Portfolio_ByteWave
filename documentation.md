@@ -46,20 +46,17 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
   - **Assigned Tasks:**
     - **Development of `/services` page:** Detailed breakdown of Web and Mobile offerings, tech stacks, and engineering processes.
 
-- **[@ayodelebello310-svg](https://github.com/ayodelebello310-svg)** (ayodelebello310-svg)
-  - **Assigned Tasks:**
-    - **Development of `/projects` page:** Building the dynamic success stories grid, including case study modals and filtering.
-
-### 💻 Core Frontend Developers
 - **[@pamwise](https://github.com/pamwise)** (pamwise)
   - **Assigned Tasks:**
     - **Development of `/contact` page:** Building the functional project inquiry form with validation and email service integration.
     - **Analytics Integration:** Setting up tracking for landing page engagement.
 
-- **[@Robotinic17](https://github.com/Robotinic17)** (Robotinic17)
-  - **Assigned Tasks:**
-    - **Development of `/about` page:** Crafting the global collective story, mission, and "Why ByteWave" narrative.
-    - **SEO & Performance Optimization:** Ensuring all pages follow best practices for search engines and loading speeds.
+### 💻 Frontend Development Partners
+- **[@ayodelebello310-svg](https://github.com/ayodelebello310-svg)** & **[@Robotinic17](https://github.com/Robotinic17)**
+  - **Collaborative Tasks:**
+    - **Development of `/projects` page:** Building the dynamic success stories grid and case studies.
+    - **Development of `/about` page:** Crafting the global collective story and mission.
+    - **SEO & Performance Optimization:** Ensuring all pages follow best practices.
 
 ## 🚀 Development Workflow
 
