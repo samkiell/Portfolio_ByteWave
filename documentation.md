@@ -41,10 +41,13 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
   - **Status:** Completed Landing Page & Core Architecture.
   - **Responsibilities:** Technical oversight, project scaffolding, deployment management, and code review.
 
-### 🎨 Senior Frontend Engineer (UI/UX)
+### 🎨 Senior Frontend Engineers (UI/UX)
 - **[@Ayomide-Philip](https://github.com/Ayomide-Philip)** (Ayomide Philip)
   - **Assigned Tasks:**
     - **Development of `/services` page:** Detailed breakdown of Web and Mobile offerings, tech stacks, and engineering processes.
+
+- **[@ayodelebello310-svg](https://github.com/ayodelebello310-svg)** (ayodelebello310-svg)
+  - **Assigned Tasks:**
     - **Development of `/projects` page:** Building the dynamic success stories grid, including case study modals and filtering.
 
 ### 💻 Core Frontend Developers
