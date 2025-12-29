@@ -69,4 +69,24 @@ Roles and tasks assigned by **[@samkiell](https://github.com/samkiell)**.
 4. **Deploy:** Successful merges to `main` will automatically trigger a Vercel deployment.
 
 ---
+
+## 📬 Contact form & email sending
+- Server API: `POST /api/inquiry` — validates requests with Zod and sends emails via SendGrid.
+- Environment variables (add to your deployment or `.env`):
+  - `SENDGRID_API_KEY` — **required** to enable email sending.
+  - `CONTACT_TO_EMAIL` — recipient address (defaults to `bytewaveteams@gmail.com`).
+  - `CONTACT_FROM_EMAIL` — sender address (use a verified SendGrid sender).
+
+If `SENDGRID_API_KEY` is missing, the API responds with 503 and the form shows a friendly fallback instructing users to email directly.
+
+**Notes:** For static-only deployments without a server, consider a third-party form backend (Formspree, Getform) as an alternative.
+
+## 📈 Analytics (Google Analytics - GA4)
+- We load GA4 in `src/app/layout.jsx` and track page views automatically.
+- Form submissions fire a GA event `generate_lead` with `{ method: 'contact_form' }` from `InquiryForm.jsx` on successful send.
+- Set your measurement ID in an environment variable: `NEXT_PUBLIC_GA_MEASUREMENT_ID` (public). The project currently falls back to the provided ID: `G-R41VL94TC4` if the env var is not set.
+
+**Privacy & Consent:** If you need GDPR/CCPA compliance, add a consent banner and delay loading GA until consent is granted.
+
+---
 **ByteWave** | *Corporate. Polished. Modern. Confident.*

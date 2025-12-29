@@ -1,3 +1,4 @@
+import Link from "next/link";
 import Image from "next/image";
 import { Mail, ArrowRight } from "lucide-react";
 
@@ -20,12 +21,12 @@ const Hero = () => {
               ByteWave delivers fast, high-quality, and affordable web and mobile development services. We scale your ideas into long-term digital solutions.
             </p>
             <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row lg:justify-start">
-              <a
-                href="mailto:bytewaveteams@gmail.com"
+              <Link
+                href="/contact"
                 className="inline-flex items-center justify-center rounded-full bg-primary px-8 py-4 text-sm font-semibold text-white shadow-sm transition-all hover:bg-primary/90 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-primary dark:bg-white dark:text-primary dark:hover:bg-slate-200"
               >
                 Contact Our Team <Mail className="ml-2" size={18} />
-              </a>
+              </Link>
               <a
                 href="/projects"
                 className="inline-flex items-center text-sm font-semibold leading-6 text-primary dark:text-white hover:text-accent transition-colors"

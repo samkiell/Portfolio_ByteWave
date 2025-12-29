@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { Mail } from "lucide-react";
 
 const CTA = () => {
@@ -12,12 +13,12 @@ const CTA = () => {
             Get in touch today for a free consultation and quote. Our team is ready to scale your ideas into reality.
           </p>
           <div className="mt-10 flex items-center justify-center gap-x-6">
-            <a
-              href="mailto:bytewaveteams@gmail.com"
+            <Link
+              href="/contact"
               className="rounded-full bg-white px-8 py-4 text-sm font-semibold text-primary shadow-sm hover:bg-blue-50 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-white transition-all flex items-center"
             >
               Contact Us Now <Mail className="ml-2" size={18} />
-            </a>
+            </Link>
           </div>
           {/* Background circle decoration */}
           <svg
